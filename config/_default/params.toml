@@ -28,7 +28,7 @@ enableCodeCopy = true
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
-  showRecent = true
+  showRecent = false
 
 [article]
   showDate = true
@@ -36,13 +36,13 @@ enableCodeCopy = true
   showAuthor = false
   showBreadcrumbs = false
   showDraftLabel = true
-  showEdit = false
+  showEdit = true
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  showHeadingAnchors = false
+  showHeadingAnchors = true
   showPagination = false
   invertPagination = false
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   showTaxonomies = true
   showWordCount = false

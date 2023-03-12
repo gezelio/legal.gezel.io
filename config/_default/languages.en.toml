@@ -5,15 +5,15 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Mystl.ink Docs"
+title = "Gezel.io Legal Stuff"
 logo = "img/mystlink.png"
 description = "Documentation and answers to your questions"
-copyright = "Feel free to contribute to our documentation on [GitHub](https://github.com/gezelio/mystlink-docs)!"
+copyright = ""
 
 dateFormat = "January 2, 2006"
 
 [author]
-name = "Tommerty"
+name = "Gezel.io"
 image = "img/author.png"
 headline = "Wannabe front end developer, sharing my experience"
 bio = "Learning what I can find, and sharing it with you. "
