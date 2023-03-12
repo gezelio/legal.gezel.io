@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Mystl.ink Docs"
+logo = "img/mystlink.png"
+description = "Documentation and answers to your questions"
+copyright = "Feel free to contribute to our documentation on [GitHub](https://github.com/gezelio/mystlink-docs)!"
+
+dateFormat = "January 2, 2006"
+
+[author]
+name = "Tommerty"
+image = "img/author.png"
+headline = "Wannabe front end developer, sharing my experience"
+bio = "Learning what I can find, and sharing it with you. "
+links = [
+{ mastodon = "https://mas.to/@tommerty" },
+{ discord = "https://gezel.io/discord" },
+{ link = "https://gezel.io/" },
+{ youtube = "https://youtube.com/@tommertyIRL" },
+]
